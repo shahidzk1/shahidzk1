@@ -7,4 +7,5 @@
 - You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
 - #### Current code
-- This code contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs and XGBoost
+- This [code](https://www.example.com)
+ contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs and XGBoost
