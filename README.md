@@ -7,5 +7,5 @@
 - You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
 - #### Current code
-- This [code](https://www.example.com)
+- This [code]([https://www.example.com](https://github.com/shahidzk1/HP_OPT))
  contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs and XGBoost
