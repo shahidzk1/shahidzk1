@@ -1,6 +1,4 @@
-### Welcome to my Github page
-
-Here are some ideas to get you started:
+### Welcome to Dr. Shahid Khan's Github page
 
 - I am a physics Ph.D. and working as a postdoc at the University of Geneva. I analyze the AMS-02 nuclei data with machine learning algorithms such as Transformers, CNNs and XGBoost.
 - Working on complex issues decreases the entropy of my mind. 
