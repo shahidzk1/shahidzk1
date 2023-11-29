@@ -4,7 +4,7 @@
 - Working on complex issues decreases the entropy of my mind. 
 - I am learning cloud architecture and machine learning deployment on a large scale. 
 - I am interested in the use of AI in day-to-day life
-- You can contact me at (shahidzafarkhan@gmail.com) or shahid.khan@unige.cern
+- You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
 - #### Current code
 - This [code](https://github.com/shahidzk1/HP_OPT) contains the analysis of the Higgs boson challenge with machine learning. It also includes a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs and XGBoost
