@@ -16,8 +16,7 @@
 - This [folder](https://github.com/shahidzk1/Machine_learning/tree/main/Flowers_images_classifier) contains the classification of flowers with CNNs, again the class is used here
 
 ### Course Teaching
-- I am currently teaching a course on numerical analysis for bachelor's studentst as an assistant
+- I am currently teaching a course on numerical analysis for bachelor's students as an assistant
 - The exercises are available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
 
 ### Github stats
-
