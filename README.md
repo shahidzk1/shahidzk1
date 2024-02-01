@@ -16,5 +16,6 @@
 - The exercises are available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
 
 ### Github stats
-!My GitHub Stats
-!My GitHub Language Stats
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
+</div>
