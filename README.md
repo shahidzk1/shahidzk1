@@ -7,9 +7,9 @@
 - You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
 - #### Current Projects
-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
-</div>
+      <div id="header" align="center">
+        <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100"/>
+      </div>
 - This [code](https://github.com/shahidzk1/Machine_learning) contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs, and XGBoost.
 - This [folder](https://github.com/shahidzk1/Machine_learning/tree/main/Higgs_challenge)) uses the above class in a notebook for the analysis of the Higgs boson challenge with various machine-learning algorithms
 - This [folder](https://github.com/shahidzk1/Machine_learning/tree/main/Flowers_images_classifier) contains the classification of flowers with CNNs, again the class is used here
