@@ -8,7 +8,7 @@
 
 #### Current Projects
   <div id="header" align="left">
-  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="100" heigh="200" align="left"/>
+  <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
 </div>
 
 - This [code](https://github.com/shahidzk1/Machine_learning) contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs, and XGBoost.
