@@ -6,7 +6,7 @@
 - I am interested in the use of AI in day-to-day life
 - You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
-- #### Current code
+- #### Current Projects
 - This [code](https://github.com/shahidzk1/Machine_learning) contains a class to optimize the hyperparameters of various machine learning algorithms such as transformers, CNNs, MLPs and XGBoost.
 - It also includes notebooks for the analysis of the Higgs boson challenge with various machine-learning algorithms
 - It also includes the classification of flowers with CNNs 
