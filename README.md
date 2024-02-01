@@ -15,6 +15,7 @@
 - This [folder](https://github.com/shahidzk1/Machine_learning/tree/main/Higgs_challenge)) uses the above class in a notebook for the analysis of the Higgs boson challenge with various machine-learning algorithms
 - This [folder](https://github.com/shahidzk1/Machine_learning/tree/main/Flowers_images_classifier) contains the classification of flowers with CNNs, again the class is used here
 
+
 #### Course Teaching
 - I am currently teaching a course on numerical analysis for bachelor's students as an assistant
 - The code of the exercises is available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
