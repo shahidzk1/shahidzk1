@@ -6,7 +6,8 @@
 - I am interested in the use of AI in day-to-day life
 - You can contact me at shahidzafarkhan@gmail.com or shahid.khan@unige.cern
 
-  #### Current Projects
+
+#### Current Projects
   <div id="header" align="left">
   <img src="https://media.giphy.com/media/Tgw604MyLJnDtbi4t0/giphy.gif" width="150" heigh="200" align="left"/>
 </div>
