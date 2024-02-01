@@ -14,3 +14,7 @@
 ### Course Teaching
 - I am currently teaching a course on numerical analysis for bachelor's studentst as an assistant
 - The exercises are available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
+
+### Github stats
+!My GitHub Stats
+!My GitHub Language Stats
