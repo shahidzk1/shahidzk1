@@ -20,6 +20,9 @@
 
 #### Course Teaching
 - I am currently teaching a course on numerical analysis for bachelor's students as an assistant
+- The course exposes the students to different analysis algorithms used in physics
+  - Linear and multiple regression
+  - Machine learning
 - I have to prepare examples and exercises for the students
 - The code of the exercises is available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
 
