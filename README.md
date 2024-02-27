@@ -19,13 +19,17 @@
   
 &nbsp;
 
-#### Course Teaching
+#### Postdoctoral activities at the Uni Geneva
+- To convert the AMS-02 experiment data to flat trees and label the data I have developed the code [link](https://github.com/shahidzk1/Nuclei_analysis_ams_02)
+
+
+##### Course Teaching
 - I am currently teaching a course on numerical analysis for bachelor's students as an assistant
 - The course exposes the students to different analysis algorithms used in physics
   - Linear and multiple regression
   - Machine learning
 - I have to prepare examples and exercises for the students
-- The code of the exercises is available at [link](https://github.com/shahidzk1/Numerical_analysis/tree/shahid_version)
+- The code of the exercises is available at [link](https://github.com/shahidzk1/Numerical_analysis)
 
 ### :fire: Github stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shahidzk1&theme=dark&background=000000)](https://git.io/streak-stats)
